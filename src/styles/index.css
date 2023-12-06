@@ -2,6 +2,11 @@ a{
     list-style: none !important;
     color: white !important;
 }
+.footer{
+    width: auto;
+    height: 100px;
+    
+}
 /* 
 
     You can write your own styles here...
