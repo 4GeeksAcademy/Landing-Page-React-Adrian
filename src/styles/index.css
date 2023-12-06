@@ -1,4 +1,7 @@
-
+a{
+    list-style: none !important;
+    color: white !important;
+}
 /* 
 
     You can write your own styles here...
