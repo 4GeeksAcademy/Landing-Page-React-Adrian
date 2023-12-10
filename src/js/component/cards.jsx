@@ -2,7 +2,7 @@ import React from "react";
 
 export const Cards = () => {
   return (
-    <div className="card m-3 col-3" style={{ width: "18rem" }}>
+    <div className="card m-3 col-1" style={{ width: "18rem" }}>
       <img
         src="https://placehold.co/500x325"
         className="card-img-top"
