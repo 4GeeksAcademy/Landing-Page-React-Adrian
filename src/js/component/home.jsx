@@ -15,7 +15,7 @@ const Home = () => {
 			<Navbar/>
 			<Jumbotron/>
 
-			<div className="d-flex flex-wrap bg-black contenedorPhotos">
+			<div className="d-flex flex-wrap contenedorPhotos">
 				<Cards/> 
 				<Cards/> 
 				<Cards/> 
